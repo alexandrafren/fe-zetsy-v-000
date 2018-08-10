@@ -32,6 +32,7 @@ img {
 
 .press a:hover{
 	border: thick grey solid;
+	float: left;
 }
 
 .clearfix:after {
