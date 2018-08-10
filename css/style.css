@@ -54,3 +54,8 @@ h3 {
 	height: 0;
 	line-height: 0;
 }
+
+#copyright {
+	position: absolute;
+	right: 0;
+}
