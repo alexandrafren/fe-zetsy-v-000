@@ -29,3 +29,7 @@ img {
 	border: medium grey solid;
 	display: inline-block;
 }
+
+#press a:hover{
+	border: thick grey solid;
+}
