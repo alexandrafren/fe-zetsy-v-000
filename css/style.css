@@ -30,6 +30,6 @@ img {
 	display: inline-block;
 }
 
-#press a:hover{
+.press a:hover{
 	border: thick grey solid;
 }
