@@ -23,6 +23,7 @@ body {
 /* Write all remaining styles here */
 .wrapper h1 {
 	font-family: "Baskerville", "Times New Roman", serif;
+	font-size: 2em;
 }
 
 #necklace {
