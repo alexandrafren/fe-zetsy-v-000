@@ -26,6 +26,6 @@ body {
 }
 
 img {
-	border-color: grey;
+	border-color: medium solid grey;
 	display: inline-block;
 }
