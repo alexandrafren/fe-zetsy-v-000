@@ -24,6 +24,7 @@ body {
 .wrapper h1 {
 	font-family: "Baskerville", "Times New Roman", serif;
 	font-size: 2em;
+	color: grey;
 }
 
 #necklace {
