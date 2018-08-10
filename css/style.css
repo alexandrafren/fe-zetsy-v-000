@@ -33,6 +33,7 @@ body {
 .press a{
 	float: left;
 	border: medium grey solid;
+	margin-left: 2px;
 }
 
 .press a:hover{
