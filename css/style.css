@@ -30,9 +30,12 @@ img {
 	display: inline-block;
 }
 
+.press a{
+	float: left;
+}
+
 .press a:hover{
 	border: thick grey solid;
-	float: left;
 }
 
 .clearfix:after {
