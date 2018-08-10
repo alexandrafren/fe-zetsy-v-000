@@ -42,6 +42,10 @@ body {
 	border: thick grey solid;
 }
 
+h3 {
+	color: grey;
+}
+
 .clearfix:after {
 	content: ".";
 	display: block;
